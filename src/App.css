@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+.square {
+  width: 200px;
+  height: 150px;
+  border: 1px solid red;
+  margin: auto;
+
+}
+
+.flex-container {
+  display: flex;
+  padding: 100px 0 0 0;
+  justify-content: center;
+
+}
+
+.solution {
+  padding: 100px 0 0 0;
+}
