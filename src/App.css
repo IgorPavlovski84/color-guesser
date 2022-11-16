@@ -3,8 +3,8 @@
 }
 
 .square {
-  width: 200px;
-  height: 150px;
+  width: 25vh;
+  height: 20vh;
   border: 1px solid red;
   margin: auto;
 
@@ -12,7 +12,8 @@
 
 .flex-container {
   display: flex;
-  padding: 100px 0 0 0;
+  padding: 20vh 35vh 0 35vh;
+  margin: 5vh 5vh;
   justify-content: center;
 
 }
